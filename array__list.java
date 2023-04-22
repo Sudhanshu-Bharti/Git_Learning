@@ -3,7 +3,7 @@ import java.util.*;
 class arr_list
 {
     private int[] arr;        
-    //public int array_size=0;
+    //public int array_size=0;//
 
     public arr_list(int initialsize)
     {
